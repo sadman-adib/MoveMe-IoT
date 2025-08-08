@@ -37,7 +37,7 @@ Public transport in developing countries faces challenges such as unreliable sch
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 MoveMe/
   1. raspberry_pi_codes/
     a. object_detection.py
