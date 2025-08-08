@@ -39,17 +39,12 @@ Public transport in developing countries faces challenges such as unreliable sch
 
 ## 📂 Repository Structure
 MoveMe/
-│
-├── raspberry_pi_codes/
-│ ├── object_detection.py
-│ ├── rfid_test.py
-│
-├── arduino_esp32_codes/
-│ ├── arduino_code_final.ino
-│ ├── esp32_code_final.ino
-│
-└── README.md
-
+  1. raspberry_pi_codes/
+    a. object_detection.py
+    b. rfid_test.py
+  2. arduino_esp32_codes/
+    a. arduino_code_final.ino
+    b. esp32_code_final.ino
 
 ---
 
