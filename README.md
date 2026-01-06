@@ -81,10 +81,8 @@ MoveMe/
 
 ---
 
-## Contributors
-- **Md. Sadman Haque** – Research Lead  
-- Zobaer Ibn Razzaque  
-- Robiul Awoul Robin  
+## ArXiv
+- https://arxiv.org/abs/2601.01274  
 
 ---
 
