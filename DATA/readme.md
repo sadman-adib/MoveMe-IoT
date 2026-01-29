@@ -4,7 +4,7 @@ This repository contains the **experimental data** used to evaluate the effectiv
 
 ## Description
 
-The goal of the project was to assess the accuracy of the **Blind-Spot Object Detection System** by analyzing 10,000 frames of real-time camera data. The frames were captured from a live camera feed monitoring the road area around the vehicle for **10 minutes**. The system categorizes objects in the blind-spot into four categories:
+The goal of the project was to assess the accuracy of the **Blind-Spot Collision Detection System** by analyzing 10,000 frames of real-time camera data. The frames were captured from a live camera feed monitoring the road area around the vehicle for **10 minutes**. The system categorizes objects in the blind-spot into four categories:
 
 - **True Positives (TP)**: The system correctly detects vehicles or pedestrians in the blind-spot and issues appropriate alerts.
 - **True Negatives (TN)**: No objects are present, and the system does not issue unnecessary alerts.
@@ -65,7 +65,8 @@ To use this dataset, you should have **Python 3** and the following libraries in
 - **pandas**: for handling data.
 - **numpy**: for numerical operations.
 
-You can install the necessary packages using:
+Install the necessary packages using:
 
 ```bash
 pip install pandas numpy
+
